@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="com.microsoft.eventhubs.client:eventhubs-client:1.0" type="repository">
+    <properties maven-id="com.microsoft.eventhubs.client:eventhubs-client:1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/eventhubs-client-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qpid-amqp-1-0-client-0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qpid-amqp-1-0-common-0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qpid-amqp-1-0-client-jms-0.32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-over-slf4j-1.6.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/eventhubs-client-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/eventhubs-client-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

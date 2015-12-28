@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="org.apache.qpid:qpid-jms-client:0.7.0" type="repository">
+    <properties maven-id="org.apache.qpid:qpid-jms-client:0.7.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/qpid-jms-client-0.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/geronimo-jms_1.1_spec-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/proton-j-0.11.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.0.17.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/qpid-jms-client-0.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/qpid-jms-client-0.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
